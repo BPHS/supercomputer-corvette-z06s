@@ -5,6 +5,7 @@
 */
 public class Supercomputer {
     public static void main(String [] args) {
+        // Ryan's loops
         for (int x = 1; x <= 1000000; x++) {
             System.out.print(x + " ");
         }
@@ -13,5 +14,6 @@ public class Supercomputer {
             System.out.print(x + " ");
         }
         System.out.println();
+        // Paul's Loops
     }
 }
