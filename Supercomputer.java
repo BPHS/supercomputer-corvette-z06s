@@ -7,6 +7,8 @@ import java.util.Scanner;
 public class Supercomputer {
     public static void main(String [] args) {
         Scanner FTC = new Scanner(System.in);
+        System.out.println("Welcome to the beginning of a supercomputer program!!!!");
+        System.out.println();
         System.out.println("Please select one of the following loops");
         System.out.println("1.) Counting to 1000000 by 1s");
         System.out.println("2.) Counting to 1000000 by 5s");
