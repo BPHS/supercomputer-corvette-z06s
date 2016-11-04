@@ -1,5 +1,3 @@
 First Attempt at making a supercomputer
 
-
-
-Hi, I'm Paul
+Made by Paul Bush and Ryan Gardner
